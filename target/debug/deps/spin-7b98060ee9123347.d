@@ -1,0 +1,12 @@
+/Users/HP1030G2/Downloads/os_with_bootloader/target/debug/deps/spin-7b98060ee9123347.rmeta: /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lib.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/barrier.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lazy.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex/spin.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/once.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/relax.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/rwlock.rs
+
+/Users/HP1030G2/Downloads/os_with_bootloader/target/debug/deps/spin-7b98060ee9123347.d: /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lib.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/barrier.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lazy.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex/spin.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/once.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/relax.rs /Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/rwlock.rs
+
+/Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lib.rs:
+/Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/barrier.rs:
+/Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/lazy.rs:
+/Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex.rs:
+/Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/mutex/spin.rs:
+/Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/once.rs:
+/Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/relax.rs:
+/Users/HP1030G2/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spin-0.9.8/src/rwlock.rs:
